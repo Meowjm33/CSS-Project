@@ -11,7 +11,9 @@ body{
 }
 .header-section{
     margin: 70px;
+    display: flex;
 }
 .text-section{
-    
+    margin-right: 50px;
+    padding: 10px;
 }
