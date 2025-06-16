@@ -17,3 +17,84 @@ body{
     margin-right: 50px;
     padding: 10px;
 }
+.header-section img{
+    width: 500px;
+    height: auto;
+    border-radius: 20px;
+}
+
+.text-section h1{
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.text-section p{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.text-section button{
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: hsl(162, 88%, 26%);
+    color: white;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+}
+
+.text-section button:hover{
+    background-color: hsl(162, 88%, 26%);
+}
+/*Main Section*/
+.main-section h1{
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.objective{
+    display: flex;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 15px;
+}
+.objective i{
+    font-size: 30px;
+    color: #087f5b;
+    margin-bottom: 10px;
+
+}
+.objective p{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+.objective div{
+    margin-right: 20px;
+}
+.review-box{
+    background-color: #087f5b;
+    color: white;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-radius: 15px;
+    
+}
+.review-box h1{
+     font-size: 30px;
+    margin-bottom: 30px;
+    display: flex;
+}
+.review-box img{
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+    
+}
+.review-box p{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: justify;
+}
