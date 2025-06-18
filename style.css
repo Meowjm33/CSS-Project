@@ -45,7 +45,7 @@ body{
 }
 
 .text-section button:hover{
-    background-color: hsl(162, 88%, 26%);
+    background-color: hsl(94, 88%, 26%);
 }
 /*Main Section*/
 .main-section h1{
@@ -80,8 +80,6 @@ body{
     padding: 20px;
     border-radius: 15px;
     display: flex;
-    justify-content: center;
-    align-items: center;
     
 }
 .review-box h1{
@@ -105,4 +103,60 @@ body{
     height: auto;
     border-radius: 20px;
 
+}
+.chair-section{
+     margin-bottom: 10px;
+    padding: 20px;
+    border-radius: 15px;
+    display: flex;
+    
+
+}
+.best-seller img{
+    width: 400px;
+    height: auto;
+    border-radius: 20px;
+
+}
+.best-seller p{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+.best-seller button{
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: hsl(162, 88%, 26%);
+    color: white;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+
+}
+.best-seller button:hover{
+    background-color: hsl(94, 88%, 26%);
+
+}
+.best-seller{
+    margin-right: 100px;
+    padding: 10px;
+}
+.chair-section .button{
+    font-weight: bold;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.chair-section h2{
+    margin-right: 50px;
+    padding: 10px;
+}
+.chair-section div{
+    margin-right: 10px;
+  
+}
+.best-seller h2{
+    text-align: center;
 }
