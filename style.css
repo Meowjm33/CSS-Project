@@ -147,6 +147,7 @@ body{
     font-weight: bold;
     display: flex;
     justify-content: space-evenly;
+    margin-top: 40px;
     
 }
 .chair-section h2{
