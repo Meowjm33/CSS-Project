@@ -105,7 +105,7 @@ body{
 
 }
 .chair-section{
-     margin-bottom: 10px;
+     margin-bottom: 100px;
     padding: 20px;
     border-radius: 15px;
     display: flex;
@@ -160,4 +160,17 @@ body{
 }
 .best-seller h2{
     text-align: center;
+}
+.chair-section i{
+    margin-bottom: 10px;
+}
+.end{
+    background-color: #087f5b;
+    height: 80px;
+    color: white;
+}
+.end h3{
+    padding: 20px;
+    text-align: center;
+    font-weight: normal;
 }
